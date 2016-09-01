@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+** This is a simple web blog app with basic comments support and authentication
 
-Things you may want to cover:
+** Project created to practice Ruby on Rails with Ruby 5.0
 
-* Ruby version
+* Ruby version 5.0 !!
 
-* System dependencies
+* System dependencies Needs Rails of course!
 
-* Configuration
+* Configuration: Built on Windows 10, with Rails Installer using Ruby 5
 
-* Database creation
+* Database creation : Automatic 
 
-* Database initialization
+* Database initialization: Automatic
 
-* How to run the test suite
+* How to run the test suite: Tested before deployment
 
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
 
-* ...
+
